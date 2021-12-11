@@ -2,7 +2,7 @@ blueprint:
   name: Motion-activated Switch
   description: Turn on a switch when motion is detected.
   domain: automation
-  source_url: https://github.com/zenire/hass-blueprints/blob/motion_light.yaml
+  source_url: https://raw.githubusercontent.com/zenire/hass-blueprints/main/motion_switch.yaml
   input:
     motion_entity:
       name: Motion Sensor
